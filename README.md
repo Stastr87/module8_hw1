@@ -1,5 +1,4 @@
 # Проект 0. Угадай число 
-Страница на [GitHub](#https://github.com/Stastr87/module8_hw1.git)
 
 ## Оглавление  
 [1. Описание проекта](README.md#Описание-проекта)  
@@ -12,7 +11,7 @@
 ### Описание проекта    
 Программа, которая угадывает число за минимальное число попыток.
 
-Страница на [GitHub](#https://github.com/Stastr87/module8_hw1.git)
+Страница на [GitHub](https://github.com/Stastr87/module8_hw1.git)
 
 [к оглавлению](README.md#Оглавление)
 
